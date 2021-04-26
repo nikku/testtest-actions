@@ -1,1 +1,1 @@
-throw new Error('FF')
+console.log('OOO HYEA')
