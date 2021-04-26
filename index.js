@@ -1,1 +1,1 @@
-console.log('YEA')
+throw new Error('FF')
