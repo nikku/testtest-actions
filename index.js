@@ -1,1 +1,1 @@
-throw new Error('YEA');
+console.log('YEA') && throw new Error('YEA'); 
